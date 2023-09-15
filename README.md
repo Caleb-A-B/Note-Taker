@@ -24,3 +24,6 @@ node server.js
 - CSS
 - JavaScript
 - Node.js
+
+## Author
+Caleb Baca
